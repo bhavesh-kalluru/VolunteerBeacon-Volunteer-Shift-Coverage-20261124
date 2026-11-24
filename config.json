@@ -1,0 +1,10 @@
+{
+  "project": "VolunteerBeacon",
+  "title": "Volunteer Shift Coverage",
+  "sector": "Nonprofit",
+  "subject": "community center",
+  "metric": "Unfilled shifts",
+  "unit": "shifts",
+  "threshold": 3,
+  "sample": "Downtown Hub"
+}
